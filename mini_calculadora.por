@@ -3,8 +3,8 @@ programa
 	
 	funcao inicio()
 	{
-		inteiro p_valor, s_valor
-		inteiro res = 0
+		real p_valor, s_valor
+		real res = 0.0
 		caracter operador
 
 		escreva("Insira o primeiro valor! ")
@@ -36,7 +36,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 522; 
+ * @POSICAO-CURSOR = 209; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
